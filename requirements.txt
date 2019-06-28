@@ -1,0 +1,8 @@
+scipy
+numpy
+matplotlib
+jupyter
+seaborn
+pandas
+nltk
+gensim==3.7.3
